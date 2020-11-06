@@ -46,9 +46,7 @@ public class Baekjoon_1012 {
                 }
             }
             System.out.println(count);
-
         }
-
     }
 
     public static void bfs(int x, int y) {
